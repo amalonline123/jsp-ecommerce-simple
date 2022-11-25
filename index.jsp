@@ -28,7 +28,7 @@
 					<td width="40%">
 						<ul>
 
-							<li><a href="index.jsp" class="stylish">Home1ghc2fb1cmm7</a></li>
+							<li><a href="index.jsp" class="stylish">Home-m1</a></li>
 
 							<li><a href="#" class="stylish">Weekly Deals</a></li>
 							<li><a href="#" class="stylish">Contact</a></li>
