@@ -29,7 +29,7 @@
 						<ul>
 
 
-							<li><a href="index.jsp" class="stylish">Home-m1-M13</a></li>
+							<li><a href="index.jsp" class="stylish">Home-m1-M23</a></li>
 
 							<li><a href="#" class="stylish">Weekly Deals</a></li>
 							<li><a href="#" class="stylish">Contact</a></li>
