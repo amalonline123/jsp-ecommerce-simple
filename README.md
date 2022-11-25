@@ -1,1 +1,1 @@
-Simple e-commerce using JSPs1
+Simple e-commerce using JSPs-M2
