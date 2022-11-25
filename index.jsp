@@ -27,11 +27,8 @@
 				<tr height="40px">
 					<td width="40%">
 						<ul>
-<<<<<<< HEAD
-							<li><a href="index.jsp" class="stylish">Home1ghc2fb1cmm2</a></li>
-=======
-							<li><a href="index.jsp" class="stylish">Home1ghc2fb1cmm1</a></li>
->>>>>>> ccfba81416e497346f7248c433f09cd84c1c64d7
+							<li><a href="index.jsp" class="stylish">Home1ghc2fb1cmm4</a></li>
+
 							<li><a href="#" class="stylish">Weekly Deals</a></li>
 							<li><a href="#" class="stylish">Contact</a></li>
 							<li><a href="#" class="stylish">About us</a></li>
